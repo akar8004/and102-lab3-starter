@@ -25,7 +25,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![http://i.imgur.com/a/4M532LP](https://github.com/akar8004/and102-lab3-starter/blob/main/lab%203%20gif.gif)/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
